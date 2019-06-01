@@ -10,7 +10,7 @@ metadata:
 spec:
   tls:
     - hosts:
-        - k8s-multi.com
+        - webapp-k8s-multi.com
         - www.webapp-k8s-multi.com
       secretName: webapp-k8s-multi-com
   rules:
