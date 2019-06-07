@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/complex.iml" filepath="$PROJECT_DIR$/.idea/complex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dft-dp/.idea/dft-dp.iml" filepath="$PROJECT_DIR$/../../dft-dp/.idea/dft-dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dft-tf/.idea/dft-tf.iml" filepath="$PROJECT_DIR$/../../dft-tf/.idea/dft-tf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webapp_gke/.idea/webapp_gke.iml" filepath="$PROJECT_DIR$/../webapp_gke/.idea/webapp_gke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../worldremit/.idea/worldremit.iml" filepath="$PROJECT_DIR$/../worldremit/.idea/worldremit.iml" />
     </modules>
   </component>
 </project>
